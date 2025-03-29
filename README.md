@@ -6,6 +6,8 @@ Disclaimer: this encoding scheme is not designed for security purposes.
 ## What is this?
 This is an encoding scheme written in Python, which uses fixed mapping for the characters
 so they are never random.
+![image](https://github.com/user-attachments/assets/ed2c6db3-335b-4a19-aad8-28cc9f50521d)
+
 
 ## Installation
 1. Downloading Python
